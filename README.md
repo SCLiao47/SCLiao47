@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 
 
 <!--
 **SCLiao47/SCLiao47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: 
 -->
+
+This is Shih-Chi. I'm a runner, engineer, and researcher. 
+
+
+- 🔭 I’m currently working on stability/safety verification of nonlinear control systems using both model and data.
+- 🌱 I’m currently learning System Engineering and [Road Safety](https://highways.dot.gov/safety/zero-deaths). 
+- 💬 Chat with me about Autonomous Vehicles and Road Safety
+- 👯 I’m looking to collaborate on projects regarding Collision Avoidance and Road Safety
+
+You can also read more about me [here](https://scliao47.github.io/).

@@ -21,4 +21,4 @@ This is Shih-Chi. I'm a runner, engineer, and researcher.
 - 💬 Chat with me about Autonomous Vehicles and Road Safety
 - 👯 I’m looking to collaborate on projects regarding Collision Avoidance and Road Safety
 
-You can also read more about me [here](https://scliao47.github.io/).
+You can read more about me and reach out [here](https://scliao47.github.io/).

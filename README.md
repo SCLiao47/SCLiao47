@@ -17,8 +17,7 @@ This is Shih-Chi. I'm a runner, engineer, and researcher.
 
 
 - 🔭 I’m currently working on stability/safety verification of nonlinear control systems using both model and data.
-- 🌱 I’m currently learning System Engineering and [Road Safety](https://highways.dot.gov/safety/zero-deaths). 
-- 💬 Chat with me about Autonomous Vehicles and Road Safety
+- 💬 Chat with me about System Engineering, Autonomous Vehicles, and [Road Safety](https://highways.dot.gov/safety/zero-deaths). 
 - 👯 I’m looking to collaborate on projects regarding Collision Avoidance and Road Safety
 
 You can read more about me and reach out [here](https://scliao47.github.io/).
